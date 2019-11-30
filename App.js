@@ -12,7 +12,10 @@ const  Profile = [
   {id: "1", name: "Cant Handle these lips", uri: require('./assets/ahungrydoor.jpg')},
   {id: "2", name: "Ariel", uri: require('./assets/aquaman.jpg')},
   {id: "3", name: "Larry L. Legs", uri: require('./assets/asianspiderman.jpg'),},
-  {id: "4", name: "Sheila", uri: require('./assets/myex.png')}
+  {id: "4", name: "Sheila", uri: require('./assets/myex.png')},
+  {id: "5", name: "Minha Sogra", uri: require('./assets/Giygas.jpg')},
+  {id: "6", name: "Crunch-time employee", uri: require('./assets/teketeke.jpg')},
+  {id: "7", name: "Seu Teixeira", uri: require('./assets/oldman.jpg')}
 ]
 
 export default class App extends React.Component{
